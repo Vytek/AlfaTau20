@@ -1,6 +1,12 @@
 # Alfa-Tau 2.0
 Ricerche e sviluppo per una nuova versione del Wargame Alfa Tau dell' Amm. Giovanni Saladino
 
+## Introduzione
+
+Letteralmente "folgorato sulla via di damasco" ho scoperto l'esistenza di numerosi "Giochi di guerra" che mi hanno riportato alla memoria le tante ipotesi che da ragazzo avevo fatto vedendo il famoso film "War Games". E scopro un mondo con un interessantissimo video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NYZ0sg6eVuE/0.jpg)](https://www.youtube.com/watch?v=NYZ0sg6eVuE)
+
 ## Bibliografia essenziale
 
 - Saladino, Giovanni. Introduzione ai giochi di guerra (Wargames) Milano Mursia, 1979
