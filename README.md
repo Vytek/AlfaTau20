@@ -7,6 +7,8 @@ Letteralmente "folgorato sulla via di damasco" ho scoperto l'esistenza di numero
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NYZ0sg6eVuE/0.jpg)](https://www.youtube.com/watch?v=NYZ0sg6eVuE)
 
+Tutto questo mi ha portato 
+
 ## Bibliografia essenziale
 
 - Saladino, Giovanni. Introduzione ai giochi di guerra (Wargames) Milano Mursia, 1979
@@ -18,9 +20,11 @@ Letteralmente "folgorato sulla via di damasco" ho scoperto l'esistenza di numero
 
 - Wilson, Andrew. , and Di Giuro, Vittorio. La guerra e il computer Milano Arnoldo Mondadori, 1970
 - Masini, Riccardo. , and Masini, Sergio. Le guerre di carta 2.0 : giocare con la storia nel terzo millennio. Milano Unicopli, 2018
-- 
+
 
 ## Collegamenti e librerie utili per la creazione di una version digitale di Alfa-Tau
+
+Gestione coordinate:
 
 - https://github.com/FalcoGer/CoordinateConverter
 - https://en.wikipedia.org/wiki/Military_Grid_Reference_System
@@ -29,11 +33,15 @@ Letteralmente "folgorato sulla via di damasco" ho scoperto l'esistenza di numero
 - https://gist.github.com/adrianstevens/776530e198734b34a9c8a43aaf880041
 - https://www.nuget.org/packages/pdfsharp/
 
+Banca dati mezzi:
+
 - https://www.matrixgames.com/amazon/PDF/CMO/CMO_manual_EBOOK.pdf
 - https://cmano-db.com/
 - https://www.tacview.net/product/en/
 - http://www.warfaresims.com/?page_id=1876
 - https://github.com/Vyrtuoz/Tacview
+
+Dadi ed altro:
 
 - https://www.nuget.org/packages/DiceRoller/
 - https://www.ict.social/csharp/oop/rolling-die-in-csharp-net-constructors-and-random-numbers
