@@ -7,7 +7,9 @@ Letteralmente "folgorato sulla via di damasco" ho scoperto l'esistenza di numero
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NYZ0sg6eVuE/0.jpg)](https://www.youtube.com/watch?v=NYZ0sg6eVuE)
 
-Tutto questo mi ha portato 
+Tutto questo mi ha portato alla ricerca delle fonti per il loro studio approfondito:
+
+![](photo5819171625537483156.jpg)
 
 ## Bibliografia essenziale
 
