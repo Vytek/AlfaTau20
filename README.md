@@ -11,6 +11,10 @@ Tutto questo mi ha portato alla ricerca delle fonti per il loro studio approfond
 
 ![](photo5819171625537483156.jpg)
 
+Una tradizione quella dei War Game che si è trasformata anche in videogame particolari appositamente creati per il mondo militare:
+
+[](https://www.vice.com/it/article/evjeqz/esercito-videogiochi-wargame)
+
 ## Bibliografia essenziale
 
 - Saladino, Giovanni. Introduzione ai giochi di guerra (Wargames) Milano Mursia, 1979
