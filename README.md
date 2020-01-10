@@ -13,7 +13,7 @@ Tutto questo mi ha portato alla ricerca delle fonti per il loro studio approfond
 
 Una tradizione quella dei War Game che si è trasformata anche in videogame particolari appositamente creati per il mondo militare:
 
-[](https://www.vice.com/it/article/evjeqz/esercito-videogiochi-wargame)
+[https://www.vice.com/it/article/evjeqz/esercito-videogiochi-wargame](https://www.vice.com/it/article/evjeqz/esercito-videogiochi-wargame)
 
 ## Bibliografia essenziale
 
