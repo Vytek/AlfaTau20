@@ -47,6 +47,15 @@ Banca dati mezzi:
 - http://www.warfaresims.com/?page_id=1876
 - https://github.com/Vyrtuoz/Tacview
 
+Mesh dei mezzi:
+
+- https://www.tinkercad.com/things/dinSdSlWVid
+- https://free3d.com/3d-model/submarine-v4--863722.html
+- https://free3d.com/3d-model/naval-ship-cruiser-usa-v1--700812.html
+- https://free3d.com/3d-model/naval-ship-destroyer-italy-v1--558620.html
+- https://free3d.com/3d-model/hydrofoil-v1--38051.html
+- Typhoon: https://www.thingiverse.com/thing:3180260
+
 Dadi ed altro:
 
 - https://www.nuget.org/packages/DiceRoller/
