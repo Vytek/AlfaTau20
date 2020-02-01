@@ -55,6 +55,7 @@ Mesh dei mezzi:
 - https://free3d.com/3d-model/naval-ship-destroyer-italy-v1--558620.html
 - https://free3d.com/3d-model/hydrofoil-v1--38051.html
 - Typhoon: https://www.thingiverse.com/thing:3180260
+- USS John Paul Jones DDG-53/USS The Sullivans DDG-68 https://www.thingiverse.com/thing:3012061
 
 Dadi ed altro:
 
