@@ -57,6 +57,12 @@ Mesh dei mezzi:
 - Typhoon: https://www.thingiverse.com/thing:3180260
 - USS John Paul Jones DDG-53/USS The Sullivans DDG-68 https://www.thingiverse.com/thing:3012061
 
+Simulazione e studio SONAR, RADAR:
+
+- http://www.sonar-info.info/index.html
+- https://it.wikiversity.org/wiki/Corso:Applicazioni_tecniche_sul_sonar
+- https://www.radartutorial.eu/druck/index.en.html
+
 Dadi ed altro:
 
 - https://www.nuget.org/packages/DiceRoller/
