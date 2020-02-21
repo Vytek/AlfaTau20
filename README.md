@@ -81,3 +81,7 @@ Maps:
 * [https://github.com/tangrams/tangram-unity/ Tangram]
 * [http://infinity-code.com/en/products/online-maps Online Maps] and [http://infinity-code.com/en/products/real-world-terrain Real World Terrain]
 * [https://github.com/reinterpretcat/utymap UtyMap]
+
+Experimental Maps and Code for Alfa-Tau 2.0:
+
+* mapbox://styles/vytek75/ck53rj8h206g81cpdebkm896j
