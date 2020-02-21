@@ -86,3 +86,7 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 
 * mapbox://styles/vytek75/ck53rj8h206g81cpdebkm896j
 * https://api.mapbox.com/styles/v1/vytek75/ck53rj8h206g81cpdebkm896j.html?fresh=true&title=view&access_token=pk.eyJ1Ijoidnl0ZWs3NSIsImEiOiJjazUzb3N6eWYwNTk2M2twMjVzbzg4ZjdtIn0.bhLkYMtILIci-zziUI-wpA
+* [Symbol for Tactics](https://spatialillusions.com/unitgenerator/)
+* https://it.wikipedia.org/wiki/APP-6A
+* http://www.admiraltytrilogy.com/harpoon.php
+* https://www.facebook.com/AdmiraltyTrilogy/photos/a.976261925719520/3085664128112612/?type=3&theater
