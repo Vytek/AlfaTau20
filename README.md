@@ -30,7 +30,7 @@ Una tradizione quella dei War Game che si è trasformata anche in videogame part
 
 ## Collegamenti e librerie utili per la creazione di una version digitale di Alfa-Tau
 
-Gestione coordinate:
+Gestione coordinate/misure:
 
 - https://github.com/FalcoGer/CoordinateConverter
 - https://en.wikipedia.org/wiki/Military_Grid_Reference_System
@@ -38,6 +38,9 @@ Gestione coordinate:
 - https://github.com/Tronald/CoordinateSharp
 - https://gist.github.com/adrianstevens/776530e198734b34a9c8a43aaf880041
 - https://www.nuget.org/packages/pdfsharp/
+- https://github.com/angularsen/UnitsNet
+- [GeoTools - How to do Dead Reckoning and course calculations using GeoTools classes](http://www.javased.com/index.php?post=3917340)
+- [How Can I Convert MPS (Meters per Second) to KTs (Knots)](https://www.quora.com/C-How-can-I-convert-MPS-meters-per-second-to-KTs-knots-Or-KTs-to-MPS-It-doesnt-matter)
 
 Banca dati mezzi:
 
