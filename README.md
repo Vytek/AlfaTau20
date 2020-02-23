@@ -120,5 +120,7 @@ https://www.youtube.com/watch?v=__y100uwVdM
 Realistic Smoke Trail in Unity 3d
 https://www.youtube.com/watch?v=7pdHz_f6hZI
 
-WarShips Models: https://assetstore.unity.com/publishers/39717
+WarShips Models:
+* https://assetstore.unity.com/publishers/39717
+* https://www.turbosquid.com/3d-models/3ds-uss-nimitz-ship-navy/669057
 
