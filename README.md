@@ -94,3 +94,29 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 * https://docs.mapbox.com/help/tutorials/create-a-map-in-unity/
 * https://docs.mapbox.com/unity/maps/examples/zoomable-map/
 * https://docs.mapbox.com/help/tutorials/unity-custom-map-style/
+
+3D Alfa-Tau using Unity3D:
+
+https://assetstore.unity.com/packages/templates/systems/usim-vehicle-simulation-framework-15674
+https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990 32 Euro
+https://github.com/crest-ocean/crest
+https://assetstore.unity.com/publishers/39717 14 Euro (WarShip MODEL) * 10 
+https://assetstore.unity.com/packages/tools/particles-effects/crest-ocean-system-urp-141674#reviews 70 Euro
+https://assetstore.unity.com/packages/vfx/particles/environment/underwater-propeller-wake-125974 10 Euro
+https://assetstore.unity.com/packages/vfx/particles/fire-explosions/underwater-explosion-105988#description 10 Euro
+https://assetstore.unity.com/packages/3d/props/weapons/rocket-and-missile-fx-93518 14 Euro
+https://assetstore.unity.com/packages/tools/particles-effects/weather-maker-unity-weather-system-sky-water-volumetric-clouds-a-60955?_ga=2.218116442.259852900.1580723405-842093937.1579854709 62 Euro
+https://assetstore.unity.com/packages/tools/particles-effects/enviro-sky-and-weather-33963 45 Euro
+https://simul.co/truesky/ 100 Sterline
+
+How to take a rigged model from Blender, import it into Unity and add a script to get parts moving using keyboard input.
+https://www.youtube.com/watch?v=k2wbSMhGv9Q&feature=youtu.be
+https://assetstore.unity.com/packages/tools/physics/fast-buoyancy-61079
+
+How To Create Realistic Rocket Smoke Trail in Unity3D
+https://www.youtube.com/watch?v=pf9odBGaf70
+Rocket Flames in Unity Tutorial
+https://www.youtube.com/watch?v=__y100uwVdM
+Realistic Smoke Trail in Unity 3d
+https://www.youtube.com/watch?v=7pdHz_f6hZI
+
