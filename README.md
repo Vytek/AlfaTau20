@@ -123,4 +123,6 @@ https://www.youtube.com/watch?v=7pdHz_f6hZI
 WarShips Models:
 * https://assetstore.unity.com/publishers/39717
 * https://www.turbosquid.com/3d-models/3ds-uss-nimitz-ship-navy/669057
+* https://www.turbosquid.com/Search/Artists/Chrisz3D
+* https://www.cgtrader.com/3d-models/watercraft/military/chinese-navy-type-054a-jiangkai-ii-class-frigates-ffg054a-fc5099a9-4c48-4b10-8bf4-7209aa9df274
 
