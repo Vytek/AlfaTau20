@@ -82,6 +82,12 @@ Maps:
 * [http://infinity-code.com/en/products/online-maps Online Maps] and [http://infinity-code.com/en/products/real-world-terrain Real World Terrain]
 * [https://github.com/reinterpretcat/utymap UtyMap]
 
+Ballistics:
+
+* https://www.decarpentier.nl/ballistic-trajectories
+* Mirror: https://archive.ph/FfykU
+* Mirror 2: https://web.archive.org/web/20200224140656/https://www.decarpentier.nl/ballistic-trajectories
+
 Experimental Maps and Code for Alfa-Tau 2.0:
 
 * mapbox://styles/vytek75/ck53rj8h206g81cpdebkm896j
