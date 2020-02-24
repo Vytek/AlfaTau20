@@ -94,6 +94,8 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 * https://docs.mapbox.com/help/tutorials/create-a-map-in-unity/
 * https://docs.mapbox.com/unity/maps/examples/zoomable-map/
 * https://docs.mapbox.com/help/tutorials/unity-custom-map-style/
+* GUI: https://github.com/nothke/ProtoGUI
+* GUI Close: https://forum.unity.com/threads/closing-a-gui-window.15911/
 
 3D Alfa-Tau using Unity3D:
 
