@@ -88,6 +88,10 @@ Ballistics:
 * Mirror: https://archive.ph/FfykU
 * Mirror 2: https://web.archive.org/web/20200224140656/https://www.decarpentier.nl/ballistic-trajectories
 * https://github.com/danielkmb2/ballistic-kinematics
+* https://github.com/Habrador/Unity-Ballistics-Tutorial
+* https://github.com/vilbeyli/TrajectoryTutorial
+* https://github.com/IronWarrior/ProjectileShooting
+* https://github.com/versionpatch/projectileTrajectoryU3d
 
 Experimental Maps and Code for Alfa-Tau 2.0:
 
