@@ -87,6 +87,7 @@ Ballistics:
 * https://www.decarpentier.nl/ballistic-trajectories
 * Mirror: https://archive.ph/FfykU
 * Mirror 2: https://web.archive.org/web/20200224140656/https://www.decarpentier.nl/ballistic-trajectories
+* https://github.com/danielkmb2/ballistic-kinematics
 
 Experimental Maps and Code for Alfa-Tau 2.0:
 
