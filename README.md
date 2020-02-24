@@ -92,6 +92,7 @@ Ballistics:
 * https://github.com/vilbeyli/TrajectoryTutorial
 * https://github.com/IronWarrior/ProjectileShooting
 * https://github.com/versionpatch/projectileTrajectoryU3d
+* https://github.com/Vytek/trail-tutorial
 
 Experimental Maps and Code for Alfa-Tau 2.0:
 
