@@ -122,6 +122,7 @@ https://assetstore.unity.com/packages/3d/props/weapons/rocket-and-missile-fx-935
 https://assetstore.unity.com/packages/tools/particles-effects/weather-maker-unity-weather-system-sky-water-volumetric-clouds-a-60955?_ga=2.218116442.259852900.1580723405-842093937.1579854709 62 Euro
 https://assetstore.unity.com/packages/tools/particles-effects/enviro-sky-and-weather-33963 45 Euro
 https://simul.co/truesky/ 100 Sterline
+Fog of War: https://github.com/OCASM/SSMS
 
 How to take a rigged model from Blender, import it into Unity and add a script to get parts moving using keyboard input.
 https://www.youtube.com/watch?v=k2wbSMhGv9Q&feature=youtu.be
