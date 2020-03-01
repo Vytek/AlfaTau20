@@ -141,3 +141,5 @@ WarShips Models:
 * https://www.turbosquid.com/Search/Artists/Chrisz3D
 * https://www.cgtrader.com/3d-models/watercraft/military/chinese-navy-type-054a-jiangkai-ii-class-frigates-ffg054a-fc5099a9-4c48-4b10-8bf4-7209aa9df274
 
+https://github.com/RyanStonebraker/Derelict
+
