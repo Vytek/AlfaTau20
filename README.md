@@ -114,6 +114,9 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 https://assetstore.unity.com/packages/templates/systems/usim-vehicle-simulation-framework-15674
 https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990 32 Euro
 https://github.com/crest-ocean/crest
+https://github.com/eliasts/Ocean_Community_Next_Gen
+https://github.com/maximan3000/BuoyancyUnity
+https://github.com/Jonasmortensen/UnityOceanSim
 https://assetstore.unity.com/publishers/39717 14 Euro (WarShip MODEL) * 10 
 https://assetstore.unity.com/packages/tools/particles-effects/crest-ocean-system-urp-141674#reviews 70 Euro
 https://assetstore.unity.com/packages/vfx/particles/environment/underwater-propeller-wake-125974 10 Euro
