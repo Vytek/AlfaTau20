@@ -137,6 +137,7 @@ Rocket Flames in Unity Tutorial
 https://www.youtube.com/watch?v=__y100uwVdM
 Realistic Smoke Trail in Unity 3d
 https://www.youtube.com/watch?v=7pdHz_f6hZI
+Starting from: https://assetstore.unity.com/packages/vfx/particles/white-smoke-particle-system-20404
 
 WarShips Models:
 * https://assetstore.unity.com/publishers/39717
