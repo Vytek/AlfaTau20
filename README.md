@@ -93,6 +93,7 @@ Ballistics:
 * https://github.com/IronWarrior/ProjectileShooting
 * https://github.com/versionpatch/projectileTrajectoryU3d
 * https://github.com/Vytek/trail-tutorial
+* https://vilbeyli.github.io/Projectile-Motion-Tutorial-for-Arrows-and-Missiles-in-Unity3D/
 
 Experimental Maps and Code for Alfa-Tau 2.0:
 
