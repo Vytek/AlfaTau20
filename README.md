@@ -140,6 +140,9 @@ Realistic Smoke Trail in Unity 3d
 https://www.youtube.com/watch?v=7pdHz_f6hZI
 Starting from: https://assetstore.unity.com/packages/vfx/particles/white-smoke-particle-system-20404
 
+Detonetor:
+https://assetstore.unity.com/packages/vfx/particles/detonator-explosion-framework-1
+
 WarShips Models:
 * https://assetstore.unity.com/publishers/39717
 * https://www.turbosquid.com/3d-models/3ds-uss-nimitz-ship-navy/669057
